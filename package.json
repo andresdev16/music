@@ -3,6 +3,10 @@
   "version": "0.0.1",
   "author": "Andres Hernandez",
   "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andresdev16/music"
+  },
   "scripts": {
     "start": "node node_modules/react-native/local-cli/cli.js start"
   },
